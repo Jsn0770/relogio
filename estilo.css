@@ -23,6 +23,15 @@ html, body {
     object-fit: cover;
 }
 
+#meuaudio {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20%;
+    height: 100%;
+    object-fit: cover;
+}
+
 .relogio {
     position: relative;
     z-index: 2;
